@@ -1,2 +1,2 @@
 # gitISW
-Repositorio de pruebas para aprender Git y Github 
+Repositorio de pruebas para aprender Git y Github  
